@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:red;
+}
+.box {
+    width: 1000px;
+    height: 700px;
+    border: 3px solid black;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+
+}
+
+.box1{
+ 
+   padding: auto;
+   margin: auto;
+    width: 950px;
+    height: 500px;
+    border: 3px solid black;
+}
+
+  #pic{
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+
